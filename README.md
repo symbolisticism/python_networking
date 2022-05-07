@@ -21,19 +21,17 @@ I used the client/server model. I didn't have any particular reason for choosing
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VS Code and the downloadable version of Python 3 for this project. VS Code has useful Python extensions that made this project a little easier.
 
-{Describe the programming language that you used and any libraries.}
+I also found a Python library for simple graphical user interfaces called PySimpleGUI. Of course, I also used the socket library on Python for the basic networking functionality, as the library is extensive and useful for that sort of thing.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/themes-in-pysimplegui/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
+* The graphical user interface could use a more sophisticated and sleek look.
+* The program could use some error checking features. It would do well to have something that checks that the user put the IP address in in the correct format.
 * Item 3
