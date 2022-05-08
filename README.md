@@ -34,4 +34,4 @@ I also found a Python library for simple graphical user interfaces called PySimp
 
 * The graphical user interface could use a more sophisticated and sleek look.
 * The program could use some error checking features. It would do well to have something that checks that the user put the IP address in in the correct format.
-* Item 3
+* The application could be done away with and the whole thing could run from the command line in the future
