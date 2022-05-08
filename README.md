@@ -12,12 +12,11 @@ My purpose for writing this software was to learn the basics of networking and s
 
 # Network Communication
 
-{Describe the architecture that you used (client/server or peer-to-peer)}
 I used the client/server model. I didn't have any particular reason for choosing that. I know that most communication on the web is client/server, so I wanted to understand that relationship more.
 
-{Identify if you are using TCP or UDP and what port numbers are used.}
+I believe that I am using TCP because the server client waits for a response before it sends the next message.
 
-{Identify the format of messages being sent between the client and server or the messages sent between two peers.}
+The messages are sent in utf-8 format. The first message sent is determined by the user in the Python GUI, and the rest are hard-coded in the programming.
 
 # Development Environment
 
