@@ -8,7 +8,7 @@ My purpose for writing this software was to learn the basics of networking and s
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (you will need to show two pieces of software running and communicating with each other) and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=7sHU5DIk5oA)
 
 # Network Communication
 
